@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 75%;
+  max-width: 1440px;
+  padding: 0 240px;
+  background: rgba(229, 84, 115, 0.1);
+}
+.button {
+  border-radius: 8px;
+  background: #e55473;
+}
